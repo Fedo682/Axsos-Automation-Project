@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="AutomationPRJ.OrangHRM.OrangHRMTest">
+        <methods>
+          <include name="testCancelPIMButton"/>
+          <include name="testLoginCapitalUserName"/>
+          <include name="testEnableCreateLoginDetailsToggle"/>
+          <include name="testUpdateMultipleContactFields"/>
+          <include name="testNameLongerThan30Chars"/>
+          <include name="testLoginPassWithExtraSpace"/>
+          <include name="testValidCreateLoginDetailsToggle"/>
+          <include name="logoutsession"/>
+          <include name="testLogInMultipleTimes"/>
+          <include name="testAdminAddEmploye"/>
+          <include name="testCancelContactDetailsUpdate"/>
+          <include name="testLoginEmpty"/>
+          <include name="testLoginInValidCredintials"/>
+          <include name="testDisableCreateLoginDetailsToggle"/>
+          <include name="testMismatchConfirmPassword"/>
+          <include name="testLoginUserNameWithExtraSpace"/>
+          <include name="teardown"/>
+          <include name="testLoginCapitalPass"/>
+          <include name="setup"/>
+          <include name="testUpdateContactDetailsShortPhoneNumber"/>
+          <include name="testUpdateContactDetailsInvalidEmail"/>
+          <include name="testEmptyCreateLoginDetailsToggle"/>
+          <include name="testUpdateContactDetailsValidData"/>
+          <include name="testUpdateContactDetailsPhoneNumberWithLetters"/>
+        </methods>
+      </class> <!-- AutomationPRJ.OrangHRM.OrangHRMTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
