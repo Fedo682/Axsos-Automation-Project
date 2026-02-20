@@ -95,6 +95,7 @@ Clear traceability between requirements and automation scripts
 🔗 RTM Link:
 [[RTM]
 ](https://docs.google.com/spreadsheets/d/1_Ddd8xgJh8D0MXKrEHRiDXvyVD3zSvf_US0Sv8S9jvo/edit?usp=sharing)
+
 🎤 Presentation
 
 Project presentation explaining:
@@ -112,6 +113,7 @@ Reporting overview
 🔗 Presentation Link:
 [[Presentation]
 ](https://www.canva.com/design/DAG-HEAx7P0/P2VXm7U7wQsh1-yrveqSbg/edit?utm_content=DAG-HEAx7P0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 🏗 Automation Framework Design
 
 This project follows:
@@ -138,7 +140,7 @@ Parameterized test execution
 
 ▶ How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Axsos-Automation-Project.git
+git clone https://github.com/Fedo682/Axsos-Automation-Project.git
 2️⃣ Install Dependencies
 
 If using Maven:
